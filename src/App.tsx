@@ -7,6 +7,7 @@ import ProductsPageContainer from "@/pageContainers/ProductsPageContainer/Produc
 import CategoriesPageContainer from "@/pageContainers/CategoriesPageContainer/CategoriesPageContainer.tsx";
 import OrdersPageContainer from "@/pageContainers/OrdersPageContainer/OrdersPageContainer.tsx";
 import CustomersPageContainer from "@/pageContainers/CustomersPageContainer/CustomersPageContainer.tsx";
+import UserPageContainer from "@/pageContainers/UserPageContainer/UserPageContainer.tsx";
 
 function App() {
     return (
@@ -20,6 +21,7 @@ function App() {
                         <Route path="/categorias" element={<CategoriesPageContainer />} />
                         <Route path="/pedidos" element={<OrdersPageContainer />} />
                         <Route path="/clientes" element={<CustomersPageContainer />} />
+                        <Route path="/usuarioDetalle" element={<UserPageContainer />} />
                     </Route>
                 </Routes>
             </BrowserRouter>

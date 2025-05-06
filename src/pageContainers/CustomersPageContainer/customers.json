@@ -1,0 +1,142 @@
+[
+  {
+    "customerId": 1,
+    "firstName": "Editha",
+    "lastName": "MacDonogh",
+    "phone": "104-913-9204",
+    "email": "emacdonogh0@ask.com"
+  },
+  {
+    "customerId": 2,
+    "firstName": "Towney",
+    "lastName": "Rowlatt",
+    "phone": "800-581-1569",
+    "email": "trowlatt1@ehow.com"
+  },
+  {
+    "customerId": 3,
+    "firstName": "Alys",
+    "lastName": "Blakeslee",
+    "phone": "883-815-3718",
+    "email": "ablakeslee2@berkeley.edu"
+  },
+  {
+    "customerId": 4,
+    "firstName": "Catlee",
+    "lastName": "Fulleylove",
+    "phone": "464-406-1513",
+    "email": "cfulleylove3@liveinternet.ru"
+  },
+  {
+    "customerId": 5,
+    "firstName": "Ruggiero",
+    "lastName": "Janny",
+    "phone": "758-839-4581",
+    "email": "rjanny4@mtv.com"
+  },
+  {
+    "customerId": 6,
+    "firstName": "Nissy",
+    "lastName": "Marchant",
+    "phone": "594-700-4006",
+    "email": "nmarchant5@oracle.com"
+  },
+  {
+    "customerId": 7,
+    "firstName": "Rozalie",
+    "lastName": "Stearndale",
+    "phone": "634-510-8605",
+    "email": "rstearndale6@amazon.co.jp"
+  },
+  {
+    "customerId": 8,
+    "firstName": "Marilee",
+    "lastName": "Vial",
+    "phone": "197-967-1904",
+    "email": "mvial7@aol.com"
+  },
+  {
+    "customerId": 9,
+    "firstName": "Hamilton",
+    "lastName": "Doale",
+    "phone": "498-223-5520",
+    "email": "hdoale8@sfgate.com"
+  },
+  {
+    "customerId": 10,
+    "firstName": "Grantley",
+    "lastName": "Leathley",
+    "phone": "893-670-9357",
+    "email": "gleathley9@independent.co.uk"
+  },
+  {
+    "customerId": 11,
+    "firstName": "Florance",
+    "lastName": "Duesbury",
+    "phone": "615-499-6422",
+    "email": "fduesburya@blogs.com"
+  },
+  {
+    "customerId": 12,
+    "firstName": "Edik",
+    "lastName": "Porcas",
+    "phone": "193-680-1232",
+    "email": "eporcasb@vinaora.com"
+  },
+  {
+    "customerId": 13,
+    "firstName": "Mar",
+    "lastName": "Wotton",
+    "phone": "583-995-1394",
+    "email": "mwottonc@bloomberg.com"
+  },
+  {
+    "customerId": 14,
+    "firstName": "Dyna",
+    "lastName": "Hursey",
+    "phone": "717-177-3333",
+    "email": "dhurseyd@ft.com"
+  },
+  {
+    "customerId": 15,
+    "firstName": "Carlene",
+    "lastName": "Bernholt",
+    "phone": "588-223-6805",
+    "email": "cbernholte@berkeley.edu"
+  },
+  {
+    "customerId": 16,
+    "firstName": "Pembroke",
+    "lastName": "Forge",
+    "phone": "508-349-6673",
+    "email": "pforgef@histats.com"
+  },
+  {
+    "customerId": 17,
+    "firstName": "Cody",
+    "lastName": "Wyson",
+    "phone": "963-217-8536",
+    "email": "cwysong@discovery.com"
+  },
+  {
+    "customerId": 18,
+    "firstName": "Pablo",
+    "lastName": "Scupham",
+    "phone": "776-983-4883",
+    "email": "pscuphamh@biblegateway.com"
+  },
+  {
+    "customerId": 19,
+    "firstName": "Dione",
+    "lastName": "Chesters",
+    "phone": "885-908-5466",
+    "email": "dchestersi@google.com"
+  },
+  {
+    "customerId": 20,
+    "firstName": "Jerald",
+    "lastName": "Menchenton",
+    "phone": "243-402-6699",
+    "email": "jmenchentonj@flavors.me"
+  }
+]

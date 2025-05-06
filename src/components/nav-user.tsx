@@ -26,6 +26,7 @@ import {
   SidebarMenuItem,
   useSidebar,
 } from "@/components/ui/sidebar"
+import {useNavigate} from "react-router-dom";
 
 export function NavUser({
   user,
@@ -37,7 +38,11 @@ export function NavUser({
   }
 }) {
   const { isMobile } = useSidebar()
+  const navigate = useNavigate();
 
+  const handleClick = (url: string) => {
+    navigate(url);
+  };
   return (
     <SidebarMenu>
       <SidebarMenuItem>
@@ -78,7 +83,7 @@ export function NavUser({
             </DropdownMenuLabel>
             <DropdownMenuSeparator />
             <DropdownMenuGroup>
-              <DropdownMenuItem>
+              <DropdownMenuItem onClick={()=>handleClick("/usuarioDetalle")}>
                 <BadgeCheck />
                 Account
               </DropdownMenuItem>

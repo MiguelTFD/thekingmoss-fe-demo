@@ -13,7 +13,7 @@ const TeamSwitcher = () => {
               size="lg"
               className="data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground"
             >
-              <div className="bg-sidebar-accent-foreground flex aspect-square size-8 items-center justify-center rounded-lg">
+              <div className="bg-sidebar-accent flex aspect-square size-8 items-center justify-center rounded-lg">
                     <img
                         src={"https://thekingmoss.com/images/icon/TKMLogo.png"}
                         alt={"lg"}/>

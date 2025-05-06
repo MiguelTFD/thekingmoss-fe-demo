@@ -56,16 +56,74 @@ const createColumns = ():ColumnDef<Order>[] =>[
     },
 ]
 
+const formFields = [
+    {
+        key: 'name',
+        label: 'Nombre de Categoría',
+        placeholder: 'Ej: Bebidas',
+    },
+    {
+        key: 'stock',
+        label: 'Nombre de Categoría',
+        placeholder: 'Ej: Bebidas',
+    },
+    {
+        key: 'unitPrice',
+        label: 'Nombre de Categoría',
+        placeholder: 'Ej: Bebidas',
+    },
+    {
+        key: 'discount',
+        label: 'Nombre de Categoría',
+        placeholder: 'Ej: Bebidas',
+    },
+    {
+        key: 'description',
+        label: 'Nombre de Categoría',
+        placeholder: 'Ej: Bebidas',
+    },
+    {
+        key: 'size',
+        label: 'Nombre de Categoría',
+        placeholder: 'Ej: Bebidas',
+    },
+    {
+        key: 'weight',
+        label: 'Nombre de Categoría',
+        placeholder: 'Ej: Bebidas',
+    },
+] satisfies { key: keyof Order; label: string; placeholder?: string }[];
+
 const columns = createColumns();
 
 
 const ProductsPageContainer = ()=>{
+    const handleAdd = (newItem: Order) => {
+        console.log("Nuevo:", newItem);
+    };
+
+    const handleEdit = (updatedItem: Order) => {
+        console.log("Editado:", updatedItem);
+    };
+
+    const handleView = (item: Order) => {
+        console.log("Ver:", item);
+    };
+
+    const handleDelete = (item: Order) => {
+        console.log("Eliminar:", item);
+    };
     return (
         <div>
             <CustomTable
                 tableTitle={"Productos"}
                 data={products}
                 columns={columns}
+                formFields={formFields}
+                onAdd={handleAdd}
+                onEdit={handleEdit}
+                onView={handleView}
+                onDelete={handleDelete}
             />
         </div>
     );
