@@ -1,0 +1,201 @@
+[{
+  "productId": 1,
+  "name": "2/25/2025",
+  "stock": "ERIE",
+  "unitPrice": "177 Kings Avenue",
+  "discount": "Spizaetus coronatus",
+  "description": "Raiffeisenbank Region Neufelden eGen",
+  "size": "Support",
+  "weight": "Rupiah",
+  "category": "Action|Comedy"
+}, {
+  "productId": 2,
+  "name": "10/14/2024",
+  "stock": "KALISPELL",
+  "unitPrice": "31 Sheridan Junction",
+  "discount": "Milvus migrans",
+  "description": "Crédit Agricole S.A.",
+  "size": "Support",
+  "weight": "Peso",
+  "category": "Documentary"
+}, {
+  "productId": 3,
+  "name": "7/31/2024",
+  "stock": "DANSVILLE",
+  "unitPrice": "37494 Monterey Alley",
+  "discount": "Amazona sp.",
+  "description": "DEUTSCHE BANK S.P.A.",
+  "size": "Human Resources",
+  "weight": "Yuan Renminbi",
+  "category": "Action|Comedy|Crime|Drama"
+}, {
+  "productId": 4,
+  "name": "5/11/2024",
+  "stock": "ASHEVILLE",
+  "unitPrice": "878 Amoth Drive",
+  "discount": "Hyaena brunnea",
+  "description": "Všeobecná úverová banka, a.s.",
+  "size": "Accounting",
+  "weight": "Real",
+  "category": "Comedy|Documentary"
+}, {
+  "productId": 5,
+  "name": "2/4/2025",
+  "stock": "OLATHE",
+  "unitPrice": "01778 Moulton Alley",
+  "discount": "Acrobates pygmaeus",
+  "description": "PNC BANK",
+  "size": "Services",
+  "weight": "Ruble",
+  "category": "Horror|Mystery"
+}, {
+  "productId": 6,
+  "name": "3/24/2025",
+  "stock": "FT WAINWRIGHT",
+  "unitPrice": "35 Declaration Circle",
+  "discount": "Bettongia penicillata",
+  "description": "Raiffeisenbank Oberpfalz NordWest eG",
+  "size": "Business Development",
+  "weight": "Rupiah",
+  "category": "Drama"
+}, {
+  "productId": 7,
+  "name": "8/4/2024",
+  "stock": "KALISPELL",
+  "unitPrice": "56 Waxwing Trail",
+  "discount": "Spheniscus mendiculus",
+  "description": "BANK OF AMERICA",
+  "size": "Engineering",
+  "weight": "Dong",
+  "category": "Action|Comedy|Crime"
+}, {
+  "productId": 8,
+  "name": "6/29/2024",
+  "stock": "WEISER",
+  "unitPrice": "8097 Golf Terrace",
+  "discount": "Leptoptilus dubius",
+  "description": "FARMERS STATE BANK",
+  "size": "Marketing",
+  "weight": "Euro",
+  "category": "Drama"
+}, {
+  "productId": 9,
+  "name": "6/29/2024",
+  "stock": "PORTLAND",
+  "unitPrice": "9 Warbler Trail",
+  "discount": "Petaurus breviceps",
+  "description": "FIRST TENNESSEE BANK",
+  "size": "Research and Development",
+  "weight": "Lev",
+  "category": "Drama"
+}, {
+  "productId": 10,
+  "name": "3/6/2025",
+  "stock": "JERSEY CITY",
+  "unitPrice": "1221 Rutledge Parkway",
+  "discount": "Lepus arcticus",
+  "description": "Raiffeisenbank Rauris-Bucheben eGen",
+  "size": "Services",
+  "weight": "Dinar",
+  "category": "Thriller"
+}, {
+  "productId": 11,
+  "name": "7/19/2024",
+  "stock": "NEW BRITAIN",
+  "unitPrice": "11335 East Road",
+  "discount": "Ephippiorhynchus mycteria",
+  "description": "SECURITY STATE BANK",
+  "size": "Human Resources",
+  "weight": "Ruble",
+  "category": "Drama|Mystery"
+}, {
+  "productId": 12,
+  "name": "2/28/2025",
+  "stock": "ST PETERSBURG",
+  "unitPrice": "07745 Rockefeller Point",
+  "discount": "Dicrostonyx groenlandicus",
+  "description": "BANK OF INDIA",
+  "size": "Training",
+  "weight": "Real",
+  "category": "Drama"
+}, {
+  "productId": 13,
+  "name": "7/16/2024",
+  "stock": "GREENWOOD",
+  "unitPrice": "44 Everett Plaza",
+  "discount": "Tadorna tadorna",
+  "description": "SECURITY STATE BANK",
+  "size": "Business Development",
+  "weight": "Franc",
+  "category": "Drama"
+}, {
+  "productId": 14,
+  "name": "5/16/2024",
+  "stock": "CHICAGO",
+  "unitPrice": "6 Park Meadow Parkway",
+  "discount": "Bugeranus caruncalatus",
+  "description": "Raiffeisenkasse Haidershofen eGen",
+  "size": "Research and Development",
+  "weight": "Hryvnia",
+  "category": "Comedy|Drama|Romance"
+}, {
+  "productId": 15,
+  "name": "7/27/2024",
+  "stock": "CHARLOTTE",
+  "unitPrice": "3 Sloan Pass",
+  "discount": "Lama glama",
+  "description": "Stellantis Financial Services Europe",
+  "size": "Marketing",
+  "weight": "Ruble",
+  "category": "Horror|Thriller"
+}, {
+  "productId": 16,
+  "name": "11/4/2024",
+  "stock": "HARLAN",
+  "unitPrice": "30 Buhler Place",
+  "discount": "Sagittarius serpentarius",
+  "description": "SFIL S.A.",
+  "size": "Product Management",
+  "weight": "Yen",
+  "category": "Crime|Drama|Romance"
+}, {
+  "productId": 17,
+  "name": "4/12/2025",
+  "stock": "EMMETSBURG",
+  "unitPrice": "61 Manufacturers Hill",
+  "discount": "Lepus arcticus",
+  "description": "BEAR STATE BANK",
+  "size": "Research and Development",
+  "weight": "Real",
+  "category": "Action|Thriller"
+}, {
+  "productId": 18,
+  "name": "1/27/2025",
+  "stock": "MONROE",
+  "unitPrice": "7 Gale Lane",
+  "discount": "Equus burchelli",
+  "description": "BFF BANK SPA",
+  "size": "Sales",
+  "weight": "Yuan Renminbi",
+  "category": "Children|Drama"
+}, {
+  "productId": 19,
+  "name": "4/27/2025",
+  "stock": "BALTIMORE",
+  "unitPrice": "86 Kenwood Circle",
+  "discount": "Coluber constrictor foxii",
+  "description": "PNC BANK",
+  "size": "Marketing",
+  "weight": "Yuan Renminbi",
+  "category": "Drama"
+}, {
+  "productId": 20,
+  "name": "2/8/2025",
+  "stock": "MINNEAPOLIS",
+  "unitPrice": "1 Hanson Hill",
+  "discount": "Conolophus subcristatus",
+  "description": "FIRST BANK",
+  "size": "Sales",
+  "weight": "Pound",
+  "category": "Documentary|Musical"
+}]

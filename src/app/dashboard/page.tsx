@@ -1,6 +1,6 @@
+import { Outlet } from "react-router-dom";
 import { AppSidebar } from "@/components/app-sidebar"
 import { ModeToggle } from "@/components/mode-toggle"
-import  HomePageContainer  from '@/pageContainers/HomePageContainer/HomePageContainer'
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -20,7 +20,7 @@ export default function Page() {
   return (
     <SidebarProvider>
       <AppSidebar />
-      <SidebarInset>
+      <SidebarInset className="lg:max-w-6/10 lg:ml-auto lg:mr-auto">
         <header className="flex h-16 shrink-0 items-center gap-2 transition-[width,height] ease-linear group-has-[[data-collapsible=icon]]/sidebar-wrapper:h-12">
           <div className="flex items-center gap-2 px-4">
             <SidebarTrigger className="-ml-1" />
@@ -42,7 +42,7 @@ export default function Page() {
           <ModeToggle/>
         </header>
         <div className="flex flex-1 flex-col gap-4 p-4 pt-0">
-          <HomePageContainer/>
+          <Outlet/>
         </div>
       </SidebarInset>
     </SidebarProvider>
