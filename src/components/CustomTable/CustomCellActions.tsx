@@ -31,7 +31,7 @@ export function CustomCellActions<T>({ row, onEdit, onView, onDelete, fields }: 
         <DropdownMenuContent align="end">
           <DropdownMenuItem asChild>
             <FormModal
-              trigger={<><Pen className="mr-2 h-4 w-4" /> editar </> }
+              trigger={<span className="flex"><Pen className="mr-2 h-4 w-4" /> editar </span> }
               title="Edit Item"
               initialData={row}
               fields={fields}
